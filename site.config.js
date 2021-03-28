@@ -48,5 +48,4 @@ module.exports = {
      '/rfid': 'RFID-546ec2736baa499e9d43168c49367bcc',
      '/conveyor': 'Low-code-05975e97efb14dfcafe013fd2037610e'
    }
-  pageUrlOverrides: null
 }
