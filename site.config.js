@@ -43,9 +43,9 @@ module.exports = {
   // any pages defined here will override their default URL paths
   // example:
   //
-  pageUrlOverrides: {
-     '/cv': 'CV-d39b4f6519fc480c98f3ea2f537e7680',
-     '/rfid': 'RFID-546ec2736baa499e9d43168c49367bcc',
-     '/conveyor': 'Low-code-05975e97efb14dfcafe013fd2037610e'
-   }
+  pageUrlOverrides: null //{
+  //   '/cv': 'CV-d39b4f6519fc480c98f3ea2f537e7680',
+  //   '/rfid': 'RFID-546ec2736baa499e9d43168c49367bcc',
+  //   '/conveyor': 'Low-code-05975e97efb14dfcafe013fd2037610e'
+  // }
 }
