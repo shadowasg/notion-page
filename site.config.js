@@ -13,13 +13,13 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Welcome to my homepage!',
-  //socialImageTitle: '',
-  //socialImageSubtitle: '',
+  // socialImageTitle: '',
+  // socialImageSubtitle: '',
 
   // social usernames (optional)
-  //twitter: '',
-  //github: '',
-  //linkedin: '',
+  // twitter: '',
+  // github: '',
+  // linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -43,9 +43,10 @@ module.exports = {
   // any pages defined here will override their default URL paths
   // example:
   //
-  pageUrlOverrides: null //{
-  //   '/cv': 'CV-d39b4f6519fc480c98f3ea2f537e7680',
-  //   '/rfid': 'RFID-546ec2736baa499e9d43168c49367bcc',
-  //   '/conveyor': 'Low-code-05975e97efb14dfcafe013fd2037610e'
-  // }
+  pageUrlOverrides: {
+    '/cv': 'CV-d39b4f6519fc480c98f3ea2f537e7680',
+    '/rfid': '5494b4cb067442a486630ce439802d53',
+    '/conveyor': 'aa5fb6f37a3841cea251564cecfcb2bf',
+    '/furniture': '5a9a07d055374e0aa185e0da6069af3f'
+  }
 }
