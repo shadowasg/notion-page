@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Homepage-1ddf3afe8d7b47e68bb71d2246f4f545',
+  rootNotionPageId: '1ddf3afe8d7b47e68bb71d2246f4f545',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -12,7 +12,7 @@ module.exports = {
   author: 'Anton Spiridonov',
 
   // open graph metadata (optional)
-  //description: 'Welcome to my homepage!',
+  description: 'Welcome to my homepage!',
   //socialImageTitle: '',
   //socialImageSubtitle: '',
 
