@@ -44,10 +44,5 @@ module.exports = {
   // example:
   //
   pageUrlOverrides: {
-    '/cv': 'CV-d39b4f6519fc480c98f3ea2f537e7680',
-    '/rfid': '5494b4cb067442a486630ce439802d53',
-    '/conveyor': 'aa5fb6f37a3841cea251564cecfcb2bf',
-    '/furniture': '5a9a07d055374e0aa185e0da6069af3f',
-    '/fabrique': 'cb6da8a7bbf14bae9e4c626602934f07'
   }
 }
